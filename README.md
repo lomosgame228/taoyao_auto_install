@@ -6,7 +6,7 @@
 > Instructions.
 > 1. For Windows:
 >   - Transfer the archive that you want and .img files to flash using sideload to the "rom" folder.
->   - select **install_rom_or_orangefox**, and follow the instructions given in the script and releases.
+>   - run **install_rom_or_ofox.exe**, and follow the instructions given in the script and releases.
 
 This instruction is similar to the script for OrangeFox
 
