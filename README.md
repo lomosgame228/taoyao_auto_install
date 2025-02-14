@@ -5,12 +5,9 @@
 > [!TIP]
 > Instructions.
 > 1. For Windows:
->   - Transfer the archive that you want to flash using sideload to the "rom" folder.
->   - select **rom_autoflash.bat**, and follow the instructions given in the script.
-> 2. For Linux:
->   - Transfer the archive that you want to flash using sideload to the "rom" folder
->   - Run script using bash ```bash rom_autoflash.sh``` then follow the instructions from the script
-> 
-> This instruction is similar to the script for OrangeFox
+>   - Transfer the archive that you want and .img files to flash using sideload to the "rom" folder.
+>   - select **install_rom_or_orangefox**, and follow the instructions given in the script and releases.
+
+This instruction is similar to the script for OrangeFox
 
 [OrangFox and aosp recovery a15](https://drive.google.com/drive/folders/14sD-EWV80jD2LChz6kUOeReKRoJAHQ3v?usp=sharing)
